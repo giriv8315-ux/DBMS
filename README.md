@@ -43,15 +43,6 @@ This repository contains SQL practicals for learning and practicing Database Man
 - MySQL Workbench
 - SQL
 
-## How to Run
-1. Install MySQL Server and MySQL Workbench.
-2. Open the required `.sql` file in MySQL Workbench.
-3. Connect to your MySQL server.
-4. Execute the queries in the order shown in the file.
-5. Review the comments in each file before running commands that delete or change tables.
-
 ## Purpose
 This repository is created for educational purposes to practice common SQL commands and DBMS concepts.
 
-## Note
-Some scripts create sample tables and data. If you run a script more than once, duplicate data or table-exists errors may occur. Use a practice database and review each script before executing it.
